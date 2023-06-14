@@ -1,0 +1,22 @@
+{
+	"name": "linq-for-d",
+	"version": "0.1.0",
+	"description": "",
+	"license": "MIT",
+	"authors": [
+		"acidicMercury8"
+	],
+	"copyright": "Copyright © 2022-2023, acidicMercury8",
+	"configurations": [
+		{
+			"name": "library",
+			"targetType": "library"
+		}
+	],
+	"sourcePaths": [
+		"src/"
+	],
+	"importPaths": [
+		"src/"
+	]
+}

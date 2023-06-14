@@ -1,0 +1,9 @@
+# Global attributes for forcing line endings normalization of specific files
+
+* text=auto
+
+# Sources
+*.d text eol=lf encoding=utf-8
+
+# Configs
+dub.json text eol=lf encoding=utf-8
